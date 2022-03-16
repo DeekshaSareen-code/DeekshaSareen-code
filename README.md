@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DeekshaSareen-code
-- 👀 I’m interested in Data Analytics
+- 👀 I’m interested in Data Analytics and Full Stack Development
 - 🌱 I’m currently learning React and Node.js to explore a bit of the Web Development Space
-- 💞️ I’m looking to collaborate on anything that aligns with my goals and helps me grow... which is mostly Data Science ;)
+- 💞️ I’m looking to collaborate on anything that aligns with my goals and helps me grow... ;)
 - 📫 How to reach me : Instagram - deeks25, Email- deekshasareen97@gmail.com
 
 <!---

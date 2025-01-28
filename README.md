@@ -5,6 +5,7 @@
 - 🧑🏻‍🎨 Love to sketch during my pass time.
 - 💞️ Eager to collaborate on projects that align with my goals, challenge my skills, and drive mutual growth and success... ;)
 - 📫 How to reach me : Instagram - deeks25, Email- deekshasareen97@gmail.com
+- 📝 Checkout tech litrature: Medium https://medium.com/@deekshasareen97
 
 <!---
 DeekshaSareen-code/DeekshaSareen-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

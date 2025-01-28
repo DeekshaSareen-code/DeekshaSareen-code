@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DeekshaSareen-code
 - 👀 I’m interested in Full Stack Development
-- 🌱 3 years of corporate experience in Angular, Typescript, Node.js, MongoDb.
+- 🌱 3 years of corporate experience in Angular, React, Typescript, Node.js, MongoDb.
 - 🎅🏻 Working on my own secret-santa app for the season.
 - 🧑🏻‍🎨 Love to sketch during my pass time.
 - 💞️ Eager to collaborate on projects that align with my goals, challenge my skills, and drive mutual growth and success... ;)
